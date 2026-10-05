@@ -1,7 +1,7 @@
 {
-  "courseName": "Cloud Computing 1",
+  "courseName": "Introduction to Cloud Computing",
   "lecturerName": "Michael McMahon",
-  "courseId": "cloud-computing-1",
+  "courseId": "introduction-to-cloud",
   "unitCount": 12,
   "includeSide": true,
   "topicsPerUnit": 3,
