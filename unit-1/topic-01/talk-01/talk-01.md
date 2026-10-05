@@ -8,3 +8,5 @@ icon:
 Summary of this talk (appears on the talk card).
 
 This talk covers the key concepts introduced in topic 1.
+
+October 2026
